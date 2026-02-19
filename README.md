@@ -1,4 +1,10 @@
-## Hi there 👋
+## Rumi's Repo
+
+Hi, I'm Rumi and welcome to my Github repo! 
+I have experience with a variety of engines and software, however my favorite programming language is python💖. I'm currently learning and exploring python GUI and QT5. Come check out my projects!✨
+
+*(updated as of 2/19/2026)*
+More information to be added soon!
 
 <!--
 **RedRumi1/RedRumi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
