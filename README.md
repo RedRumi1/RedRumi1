@@ -1,4 +1,4 @@
-## Hi, I'm Rumi! 👋
+## 🍉Rumi's Repo🍉
 
 ### Quick Facts
 - A full stack developer who loves building apps that run as good as they look 💅💅
@@ -17,7 +17,7 @@
 ![InVision](https://github.com/RedRumi1/RedRumi1/blob/main/Technical%20Proficiencies%20Icons/icons8-invision-48.png) ![Adobe InDesign](https://github.com/RedRumi1/RedRumi1/blob/main/Technical%20Proficiencies%20Icons/icons8-adobe-50-3.png) ![Adobe Photoshop](https://github.com/RedRumi1/RedRumi1/blob/main/Technical%20Proficiencies%20Icons/icons8-adobe-50-4.png) ![Adobe Illustrator](https://github.com/RedRumi1/RedRumi1/blob/main/Technical%20Proficiencies%20Icons/icons8-illustrator-50.png) ![Adobe Premire Pro](https://github.com/RedRumi1/RedRumi1/blob/main/Technical%20Proficiencies%20Icons/icons8-adobe-50-2.png) ![Adobe After Effects](https://github.com/RedRumi1/RedRumi1/blob/main/Technical%20Proficiencies%20Icons/icons8-adobe-50.png) ![Blender](https://github.com/RedRumi1/RedRumi1/blob/main/Technical%20Proficiencies%20Icons/icons8-blender-50.png)
 
 
-*(updated as of 2/19/2026)*
+*(updated as of 2/26/2026)*
 More information to be added soon!
 
 <!--
