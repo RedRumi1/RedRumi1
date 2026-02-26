@@ -10,7 +10,7 @@
 - Constantly curious, always asking questions, and hungry for knowledge 📚
 - Easily bribed with deserts and tea ☕🍰
 
-### What I Love to Code in...
+### Technical Proficiencies
 
 
 
