@@ -11,6 +11,7 @@
 - Easily bribed with deserts and tea ☕🍰
 
 ### Technical Proficiencies
+![Python](https://github.com/RedRumi1/RedRumi1/blob/main/Technical%20Proficiencies%20Icons/icons8-python-50.png)
 
 
 
