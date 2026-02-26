@@ -1,7 +1,18 @@
-## Rumi's Repo
+## Hi, I'm Rumi! 👋
 
-Hi, I'm Rumi and welcome to my Github repo! 
-I have experience with a variety of engines and software, however my favorite programming language is python💖. I'm currently learning and exploring python GUI and QT5. Come check out my projects!✨
+### Quick Facts
+- A full stack developer who loves building apps that run as good as they look 💅💅
+- Two BS (1.Mathematics, 2. CompSci) + university certification in Interactive Design
+- Experience in Producing, Project Managment/Organization, and UI/UX Design for indie games
+- Experience in Full Stack Web Development for desktop and moble
+- Educated in both lightweight (Agile) and heavyweight development methods; Regularly uses UP and SCRUM
+- Passion for both technical, legal, and creative writing (got a minor in that too!)✍💖
+- Constantly curious, always asking questions, and hungry for knowledge 📚
+- Easily bribed with deserts and tea ☕🍰
+
+### What I Love to Code in...
+
+
 
 *(updated as of 2/19/2026)*
 More information to be added soon!
