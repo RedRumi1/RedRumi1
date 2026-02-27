@@ -1,4 +1,4 @@
-## 🍉Rumi's Repo🍉
+## 🍉Hi, I'm Rumi!🍉
 
 ### Quick Facts
 - A full stack developer who loves building apps that run as good as they look 💅💅
